@@ -1,9 +1,8 @@
 
 # CitiBike Trip Duration Predictor 
 
-Callie Busch, Allison Grimsted, & Jasmine Ng
+Jasmine Ng, Callie Busch & Allison Grimsted
 
-cmb476, aeg248, jcn66 
 
 This repository contains an analysis on CitiBike trip data. Our goal is to predict trip duration based on user and situational covariates in order to alert CitiBike of potential bike thefts.
 
