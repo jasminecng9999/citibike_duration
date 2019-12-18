@@ -1,6 +1,6 @@
 
 ## Citibike Trip Duration: Midterm Report
-#### Allison Grimsted, Callie Busch Jasmine Ng.
+#### Allison Grimsted, Jasmine Ng, Callie Busch.
 
 
 ### About the Dataset:
