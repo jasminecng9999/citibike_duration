@@ -1,6 +1,6 @@
 # Project Proposal 
 
-Callie Busch, Allison Grimsted & Jasmine Ng 
+Callie Busch, Jasmine Ng & Allison Grimsted  
 
 ### Context:
 CitiBike is a bike share company in New York City with an average of 80,000 rides per day. A user pays to unlock a bike from a station, and returns it to an available station at the end of their trip. CitiBike loses bikes to theft and misplacement, at an alarming rate: during two weeks in September, CitiBike lost 1,946 bikes, leaving the company with about 9,112 active bikes. When CitiBike launched in 2013, its contract with the New York City government stipulated that they can have a monopoly on the bikeshare system through 2029 if CitiBike keeps an average of 12,000 bikes in service. Failing to combat bike theft could result in the company losing market exclusivity in NYC ([Source](https://bit.ly/2mJxpVg)).
